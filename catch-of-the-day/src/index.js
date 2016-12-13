@@ -6,4 +6,4 @@ import App from "./components/App";
 import StorePicker from "./components/StorePicker";
 
 render(<App/>, document.querySelector("#main"));
-render(<StorePicker/>, document.querySelector("#main"));
+// render(<StorePicker/>, document.querySelector("#main"));
